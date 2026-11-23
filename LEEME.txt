@@ -1,0 +1,21 @@
+NAS ONDAS DO MAR - PRIMERA VERSION DE LA WEB
+
+Contenido:
+- index.html: página web completa, adaptable a móviles y ordenadores.
+- assets/logo-nas-ondas-do-mar.png: logotipo facilitado.
+- assets/agrupacion-nas-ondas-do-mar.png: fotografía facilitada.
+
+Para verla en tu ordenador:
+1. Descomprime el archivo ZIP.
+2. Abre la carpeta nas_ondas_do_mar_web.
+3. Haz doble clic en index.html.
+
+La web funciona como página estática y el selector GL/ES cambia los textos entre gallego y castellano.
+
+Antes de publicarla:
+- Revisar los textos y nombres.
+- Añadir datos de contacto oficiales si se desean publicar.
+- Sustituir o ampliar las fotografías cuando haya imágenes actualizadas.
+- Añadir enlaces a vídeos y redes sociales oficiales.
+
+Esta versión es una maqueta funcional para revisar. Todavía no está publicada en Internet ni tiene formularios conectados.
